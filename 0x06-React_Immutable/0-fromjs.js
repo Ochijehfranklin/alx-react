@@ -1,4 +1,4 @@
-import { fromJS } from 'ímmutable';
+import { fromJS } from 'immutable';
 
 export default function getImmutableObject(object) {
   return fromJS(object);
