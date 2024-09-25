@@ -1,6 +1,7 @@
 {
   "name": "dashboard",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,7 +15,6 @@
     "css-loader": "^5.0.2",
     "file-loader": "^6.2.0",
     "image-webpack-loader": "^7.0.1",
-    "immutable": "^4.3.7",
     "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -55,7 +55,5 @@
     ]
   },
   "author": "",
-  "license": "ISC",
-  "keywords": [],
-  "description": ""
+  "license": "ISC"
 }
